@@ -1,5 +1,5 @@
 public class Main {
     public static void main(String[] args) {
-        Menu.start(AdditionalValues.startNewGame, false);
+        Menu.Start(1, false);
     }
 }
